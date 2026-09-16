@@ -1,6 +1,6 @@
 # README.md
 
-# Project NewSat ASIC: Asymmetric Topological Demodulation Engine
+# NewSat ASIC: Asymmetric Topological Demodulation Engine
 ### Next-Generation Deep-Space Video Distribution Architecture & Technical Specification
 
 **Author:** Juho Artturi Hemminki  
@@ -12,7 +12,7 @@
 
 ## 1. Executive Summary & Core Paradigm Shift
 
-Project NewSat ASIC introduces a non-Euclidean video communication architecture that shifts signal processing from linear vector spaces (\(\mathbb{R}^{n}\)) to the algebraic field extension \(\mathbb{Q}(\sqrt{5})\), bypassing the classical Shannon-Hartley SNR limit:
+NewSat ASIC introduces a non-Euclidean video communication architecture that shifts signal processing from linear vector spaces (\(\mathbb{R}^{n}\)) to the algebraic field extension \(\mathbb{Q}(\sqrt{5})\), bypassing the classical Shannon-Hartley SNR limit:
 
 \[C=B\log _{2}\left(1+\frac{S}{N}\right)\]
 
